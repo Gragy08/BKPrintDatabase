@@ -1,0 +1,136 @@
+{
+  "printers": [
+    {
+      "id": 1,
+      "place": "B4-304",
+      "name": "HP LaserJet M211d",
+      "image": "assets/images/B4-304.webp",
+      "function": "In Laser",
+      "ability": "In 2 mặt tự động-trắng đen",
+      "speed": "30",
+      "description": "Máy in Laser đơn năng với khả năng in hai mặt trắng đen với tốc độ 30 trang/phút",
+      "status": "Đang hoạt động"
+    },
+    {
+      "id": 2,
+      "place": "A4-201",
+      "name": "Brother DCP-B7620DW",
+      "image": "assets/images/DCP-B7620DW.jpg",
+      "function": "In Laser",
+      "ability": "In 2 mặt tự động-trắng đen, Copy, Scan(Màu)",
+      "speed": "29",
+      "description": "Máy in Laser đơn năng với khả năng in hai mặt trắng đen với tốc độ 29 trang/phút",
+      "status": "Đang bảo trì"
+    },
+    {
+      "id": 3,
+      "place": "B6-201",
+      "name": "HP Smart Tank 180",
+      "image": "assets/images/B6-201.jpg",
+      "function": "In phun màu",
+      "ability": "In 1 mặt-in màu, Copy",
+      "speed": "29",
+      "description": "Máy in Laser đơn năng với khả năng in hai mặt trắng đen với tốc độ 29 trang/phút",
+      "status": "Đang bị lỗi"
+    },
+    {
+      "id": 4,
+      "place": "B2-402",
+      "name": "Canon LBP6030",
+      "image": "assets/images/CanonLBP6030.jpg",
+      "function": "In Laser",
+      "ability": "In 1 mặt-trắng đen",
+      "speed": "29",
+      "description": "Máy in Laser đơn năng với khả năng in hai mặt trắng đen với tốc độ 29 trang/phút",
+      "status": "Không hoạt động"
+    },
+    {
+      "id": 5,
+      "place": "C4-204",
+      "name": "HP 108w",
+      "image": "assets/images/HP108w.jpg",
+      "function": "In Laser",
+      "ability": "In 1 mặt-trắng đen",
+      "speed": "20",
+      "description": "Máy in Laser đơn năng với khả năng in một mặt trắng đen với tốc độ 20 trang/phút",
+      "status": "Đang hoạt động"
+    },
+    {
+      "place": "B8-102",
+      "name": "HP LaserJet 135w",
+      "image": "assets/images/HP135w.webp",
+      "function": "In Laser",
+      "ability": "In 1 mặt-trắng đen, Copy, Scan(Màu)",
+      "speed": "20",
+      "description": "Máy in Laser với khả năng in một mặt trắng đen với tốc độ 20 trang/phút và scan màu",
+      "status": "Không hoạt động",
+      "id": 6
+    },
+    {
+      "place": "B4-303",
+      "name": "HPRT N43BT",
+      "image": "assets/images/N43BT.jpg",
+      "function": "In nhiệt",
+      "ability": "In 1 mặt-trắng đen",
+      "speed": "23",
+      "description": "In 1 mặt-trắng đen 23 trang/phút",
+      "status": "Đang hoạt động",
+      "id": 7
+    },
+    {
+      "place": "A1-102",
+      "name": "HP Laser MFP",
+      "image": "assets/images/HPLaserMFP.webp",
+      "function": "In Laser",
+      "ability": "In 1 mặt-trắng đen, Scan(Trắng đen)",
+      "speed": "19",
+      "description": "Máy in Laser với khả năng in một mặt trắng đen với tốc độ 19 trang/phút, scan",
+      "status": "Đang hoạt động",
+      "id": 8
+    },
+    {
+      "place": "A4-501",
+      "name": "HP 150a",
+      "image": "assets/images/HP150a.webp",
+      "function": "In Laser",
+      "ability": "In 1 mặt-in màu",
+      "speed": "18",
+      "description": "Máy in Laser với khả năng in một mặt trắng đen hoặc in màu với tốc độ 18 trang/ 1 phút",
+      "status": "Đang hoạt động",
+      "id": 9
+    },
+    {
+      "place": "B10-208",
+      "name": "Epson EcoTank L3216",
+      "image": "assets/images/EpsonEcoTankL3216.jpg",
+      "function": "In phun màu",
+      "ability": "In 1 mặt-in màu, Scan(Màu)",
+      "speed": "33",
+      "description": "Máy in Epson rất ngon",
+      "status": "Đang hoạt động",
+      "id": 10
+    },
+    {
+      "place": "B1-211",
+      "name": "Canon MF913W",
+      "image": "assets/images/CanonMF913W.jpg",
+      "function": "In Laser",
+      "ability": "In 1 mặt-in màu, Copy, Scan(Màu)",
+      "speed": "22",
+      "description": "Máy in Canon rất ngon!",
+      "status": "Đang hoạt động",
+      "id": 11
+    },
+    {
+      "place": "B4-304",
+      "name": "HP - GQ8",
+      "image": "assets/images/printer-default.jpg",
+      "function": "In Laser",
+      "ability": "In 1 mặt-trắng đen, In 2 mặt tự động-trắng đen, Copy",
+      "speed": "23",
+      "description": "ngon nhưng dễ hư!",
+      "status": "Không hoạt động",
+      "id": 12
+    }
+  ]
+}
