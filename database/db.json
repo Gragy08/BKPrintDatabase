@@ -7,7 +7,7 @@
       "image": "assets/images/B4-304.webp",
       "function": "In Laser",
       "ability": "In 2 mặt tự động-trắng đen",
-      "speed": "30",
+      "speed": "23",
       "description": "Máy in Laser đơn năng với khả năng in hai mặt trắng đen với tốc độ 30 trang/phút",
       "status": "Đang hoạt động"
     },
@@ -18,7 +18,7 @@
       "image": "assets/images/DCP-B7620DW.jpg",
       "function": "In Laser",
       "ability": "In 2 mặt tự động-trắng đen, Copy, Scan(Màu)",
-      "speed": "29",
+      "speed": "23",
       "description": "Máy in Laser đơn năng với khả năng in hai mặt trắng đen với tốc độ 29 trang/phút",
       "status": "Đang bảo trì"
     },
@@ -63,7 +63,7 @@
       "ability": "In 1 mặt-trắng đen, Copy, Scan(Màu)",
       "speed": "20",
       "description": "Máy in Laser với khả năng in một mặt trắng đen với tốc độ 20 trang/phút và scan màu",
-      "status": "Không hoạt động",
+      "status": "Đang hoạt động",
       "id": 6
     },
     {
@@ -80,7 +80,7 @@
     {
       "place": "A1-102",
       "name": "HP Laser MFP",
-      "image": "assets/images/HPLaserMFP.webp",
+      "image": "assets/images/HPLaserMFP.jpg",
       "function": "In Laser",
       "ability": "In 1 mặt-trắng đen, Scan(Trắng đen)",
       "speed": "19",
@@ -96,7 +96,7 @@
       "ability": "In 1 mặt-in màu",
       "speed": "18",
       "description": "Máy in Laser với khả năng in một mặt trắng đen hoặc in màu với tốc độ 18 trang/ 1 phút",
-      "status": "Đang hoạt động",
+      "status": "Không hoạt động",
       "id": 9
     },
     {
@@ -118,19 +118,8 @@
       "ability": "In 1 mặt-in màu, Copy, Scan(Màu)",
       "speed": "22",
       "description": "Máy in Canon rất ngon!",
-      "status": "Đang hoạt động",
+      "status": "Đang bị lỗi",
       "id": 11
-    },
-    {
-      "place": "B4-304",
-      "name": "HP - GQ8",
-      "image": "assets/images/printer-default.jpg",
-      "function": "In Laser",
-      "ability": "In 1 mặt-trắng đen, In 2 mặt tự động-trắng đen, Copy",
-      "speed": "23",
-      "description": "ngon nhưng dễ hư!",
-      "status": "Không hoạt động",
-      "id": 12
     }
   ]
 }
